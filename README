@@ -1,0 +1,19 @@
+you may simple visit the website of https://www.seekerrss.online/
+
+Core features include:
+- subscribe to RSS feeds using a feed URL or website URL;
+- search for RSS sources by keyword and add matching feeds;
+- import and export subscriptions using OPML;
+- manage multiple accounts, including local-only use and optional compatible third-party or self-hosted RSS services;
+- organize feeds into groups and track unread or starred articles;
+- enable optional notifications for new unread articles;
+- improve article readability and, where available, parse fuller article content for a better reading experience;
+- customize reading and appearance settings for a cleaner mobile reading workflow.
+
+
+
+Seeker RSS primarily stores reading data, preferences, and optional account settings locally on the user's device. If a user chooses to connect third-party or self-hosted RSS services, or uses RSS source search, the App will send the necessary requests to those services to fulfill the user's request.
+
+The App does not claim affiliation with any feed publisher, third-party synced service, or Solana Mobile unless expressly stated.
+
+
